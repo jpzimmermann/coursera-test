@@ -22,7 +22,6 @@ body {
 section {
 	background-color: #9a9a9a;
 	border: solid 1px black;
-	/*padding: 5px;*/
 	width: 100%;
 	overflow-wrap: break-word;
 
@@ -35,7 +34,6 @@ section {
 }
 .menuitem {
 	font-family: Helvetica; 
-
 	float: right;
     border: 1px solid black;
     width: 6em;
