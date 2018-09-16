@@ -1,0 +1,11 @@
+#chicken-container {
+  background-color: #9a9a9a;
+  padding: 20px;  
+}
+#nav-list a {
+    text-align: center;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: black;
+}
