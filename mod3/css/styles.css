@@ -9,3 +9,9 @@
 .navbar-inverse .navbar-nav>li>a {
     color: black;
 }
+
+@media (min-width: 768px) {
+  .navbar {
+    border-radius: 0px; 
+  }
+}
